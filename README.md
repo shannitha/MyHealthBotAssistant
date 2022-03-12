@@ -7,7 +7,12 @@ the user can ask questions that i've listed below
 
 My project video demo Url :
 https://user-images.githubusercontent.com/82083486/156814962-5defd51b-e0d4-4edf-8e45-c806882972ae.mp4
-https://user-images.githubusercontent.com/82083486/156815197-839b96c8-b80c-4d9a-8043-ae75bafd2491.mp4
+
+
+https://user-images.githubusercontent.com/82083486/158030324-51b3b565-2161-4657-afdf-4b0c66ed72f3.mp4
+
+
+
 
 My project website demo url: https://shannitha.github.io/MyHealthBotAssistant/
 ana i have used azure services:QnA maker
