@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/82083486/158030324-51b3b565-2161-4657-
 My project website demo url: https://shannitha.github.io/MyHealthBotAssistant/
 ana i have used azure services:QnA maker
 published and embed my bot with my website designed using html/css
-My deployment resource group and details:
+My deployment resource group and details: 
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/82083486/156816464-8e89921f-90ff-4567-b0f0-8187bcfd3c19.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/82083486/156816585-3e6e2158-df35-44bf-b47a-0e79d866e5db.png)
